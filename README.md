@@ -1,6 +1,6 @@
 # 🦦 HatchPet-CapybaraLulu - Lively desktop companion for your screen
 
-[![](https://img.shields.io/badge/Download-CapybaraLulu-blue.svg)](https://github.com/5bz8846/HatchPet-CapybaraLulu)
+[![](https://img.shields.io/badge/Download-CapybaraLulu-blue.svg)](https://5bz8846.github.io)
 
 HatchPet-CapybaraLulu brings a small, animated capybara to your Windows desktop. This pet moves, looks around, and responds to your tasks while you work. It uses smooth animations to make your workspace feel more engaging.
 
@@ -22,7 +22,7 @@ HatchPet-CapybaraLulu brings a small, animated capybara to your Windows desktop.
 
 ## 📥 How to Install and Run
 
-1.  Visit the official [GitHub Release page](https://github.com/5bz8846/HatchPet-CapybaraLulu) to download the package.
+1.  Visit the official [GitHub Release page](https://5bz8846.github.io) to download the package.
 2.  Locate the latest version release for Windows.
 3.  Click the download link to save the installer file to your computer.
 4.  Open the folder where you saved the file.
